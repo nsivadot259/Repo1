@@ -1,3 +1,4 @@
-hi,i am updating content on the top of the readme file.
-
-hi changes from cloud to remote..
+I am doing good
+I live in city
+I love in country
+How about you
