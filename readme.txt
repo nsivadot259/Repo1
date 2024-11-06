@@ -1,4 +1,4 @@
 I am doing good
-I live in city1
-I love in country1
+I live in city2
+I love in country2
 How about you
